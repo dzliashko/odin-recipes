@@ -1,0 +1,27 @@
+body {
+  background-color: oldlace;
+  font-family: 'Lucida Console', 'Courier New', monospace;
+  font-size: larger;
+}
+
+.header {
+  margin: 0 auto;
+  padding: 30px;
+  text-align: center;
+  margin-bottom: 20px;
+  border: 2px black solid;
+  width: max-content;
+}
+
+.links {
+  margin: 0 auto;
+  text-align: center;
+  border: 2px black solid;
+  width: max-content;
+}
+
+li {
+  display: block;
+  margin: 0 auto;
+  list-style: none;
+}
